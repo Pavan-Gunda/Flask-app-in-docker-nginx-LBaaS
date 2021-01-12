@@ -2,6 +2,9 @@
 
 a flask based app, load balanced using nginx.  
 
+
+![img-1](flask.png)
+
 ## installation 
 
 install docker and docker-compose. 
