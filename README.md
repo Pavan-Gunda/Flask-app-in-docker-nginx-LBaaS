@@ -3,7 +3,7 @@
 a flask based app, load balanced using nginx.  
 
 
-![img-1](flask.png)
+![img-1](flask.PNG)
 
 ## installation 
 
